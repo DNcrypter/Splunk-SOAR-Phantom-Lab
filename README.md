@@ -30,7 +30,7 @@ ou can Download the unprivileged installer from “https://www.splunk.com/en_us/
 
 You can directly copy the wget link and run it on the linux machine or follow **Step 3**.
 
-Img 1:
+![](https://github.com/DNcrypter/Splunk-SOAR-Phantom-Lab/blob/main/Images/img%201.jpeg)
 
 **Step 4**: Go to directory where you downloaded splunk SOAR file. By default it is in Download directory.
 ```
