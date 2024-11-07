@@ -9,6 +9,8 @@
 ## 🍁Introduction
 In this Lab I will try to cover how can we install Splunk SOAR, and how we can configure it to play automation of threat response.
 
+![](https://github.com/DNcrypter/Splunk-SOAR-Phantom-Lab/blob/main/soar%20banner.jpeg)
+
 ## 🍁What is SOAR ?
 The SOAR stands for security orchestration, automation, and response. The SOAR platform provided by Splunk is known as Phantom. Earlier it used to have a different website but now has been integrated into the Splunk’s official website itself.
 
